@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Agarwal</h1>
-<h3 align="center">A Graduate Student @ NYU specializing in Product Management and Data Analytics</h3>
+<h3 align="center">A Graduate Student @ NYU specializing in Data Analytics and Product Management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiagarwal99&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiagarwal99" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Products and Technology**
+- 💬 Ask me about **Data and Products**
 
 - 📫 How to reach me **sakshiarwl09@gmail.com**
 
