@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakshia09" target="blank"><img src="https://img.shields.io/twitter/follow/sakshia09?logo=twitter&style=for-the-badge" alt="sakshia09" /></a> </p>
 
-- 🔭 I’m currently working on [Determine](https://www.figma.com/file/9621lHtZPYpS6Xg55PoFpp/Negotiation-app?t=xDWHVkmdPl2M99rO-0)
+- 🔭 I’m currently working on boosting my skills like a character in a video game.
 
 - 🌱 I’m currently learning **Machine Learning**
 
